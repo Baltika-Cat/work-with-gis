@@ -1,4 +1,5 @@
 import childFunction from "./child.js"
+import clearPage from "./clearPage.js";
 
 const body = document.body;
 
